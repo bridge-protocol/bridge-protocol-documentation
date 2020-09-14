@@ -1,0 +1,17 @@
+{
+  "id": "extension-marketplace-verification",
+  "title": "Partner Verification Process",
+  "description": "Once a markeplace verification request is created, all network fees are verified, and the request is relayed to the partner, the url to access the verification process provided by the partner is displayed to the end user.  From there, the user simply clicks the link to begin the verification process with that marketplace partner.\r",
+  "source": "@site/docs\\extension-marketplace-verification.md",
+  "permalink": "/docs/extension-marketplace-verification",
+  "sidebar_label": "Verification Process",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Creating a Marketplace Request",
+    "permalink": "/docs/extension-marketplace-request"
+  },
+  "next": {
+    "title": "Bridge Overview",
+    "permalink": "/docs/bridge-overview"
+  }
+}

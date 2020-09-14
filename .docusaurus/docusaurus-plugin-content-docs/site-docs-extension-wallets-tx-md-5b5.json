@@ -1,0 +1,17 @@
+{
+  "id": "extension-wallets-tx",
+  "title": "Transaction History",
+  "description": "The user can use the transaction history dialog to show all recent Bridge Token transactions for the specified wallet, with links to the appropriate tracker to get further information on the transaction.\r",
+  "source": "@site/docs\\extension-wallets-tx.md",
+  "permalink": "/docs/extension-wallets-tx",
+  "sidebar_label": "Transaction History",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Wallet Detail View",
+    "permalink": "/docs/extension-wallets-detail"
+  },
+  "next": {
+    "title": "Token Swap",
+    "permalink": "/docs/extension-wallets-swap"
+  }
+}

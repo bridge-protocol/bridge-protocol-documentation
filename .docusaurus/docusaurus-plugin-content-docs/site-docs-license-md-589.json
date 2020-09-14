@@ -1,0 +1,17 @@
+{
+  "id": "license",
+  "title": "Bridge Digital Identity License",
+  "description": "Open source portions of the Bridge Digital Identity are copyright 2018-2020 Bridge Protocol Corporation and licensed \r",
+  "source": "@site/docs\\license.md",
+  "permalink": "/docs/license",
+  "sidebar_label": "Open Source License(s)",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Blockchain",
+    "permalink": "/docs/integration-blockchain"
+  },
+  "next": {
+    "title": "Bridge Network Services Terms of Service and Privacy Policy",
+    "permalink": "/docs/tos"
+  }
+}

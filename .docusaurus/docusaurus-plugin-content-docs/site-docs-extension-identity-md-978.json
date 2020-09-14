@@ -1,0 +1,17 @@
+{
+  "id": "extension-identity",
+  "title": "Digital Identity",
+  "description": "The digital identity area of the passport contains all of the verified information for the passport.  Any verified claims from Bridge Marketplace partners that were imported as well as any other imported claims will be displayed here.\r",
+  "source": "@site/docs\\extension-identity.md",
+  "permalink": "/docs/extension-identity",
+  "sidebar_label": "Overview",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Security and Backup",
+    "permalink": "/docs/extension-managing"
+  },
+  "next": {
+    "title": "Claim Detail View",
+    "permalink": "/docs/extension-identity-claims"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "extension-using",
+  "title": "Third-Party Interaction",
+  "description": "To use their digital identity online, users will interact with third party websites and applications in a few different ways.\r",
+  "source": "@site/docs\\extension-using.md",
+  "permalink": "/docs/extension-using",
+  "sidebar_label": "Third-Party Interaction",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Navigating the Passport",
+    "permalink": "/docs/extension-navigating"
+  },
+  "next": {
+    "title": "Security and Backup",
+    "permalink": "/docs/extension-managing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "overview",
+  "title": "Bridge Digital Identity",
+  "description": "Bridge Identity is a unique approach to sovereign digital identity that can be applied to a wide range of applications and environments, making it ideal for securely managing and transmitting digital identity.  In this article, we will look at an overview of the components that make up the platform and how it can be used.\r",
+  "source": "@site/docs\\overview.md",
+  "permalink": "/docs/overview",
+  "sidebar_label": "Overview",
+  "sidebar": "gettingStarted",
+  "next": {
+    "title": "What's New in Version 3.0",
+    "permalink": "/docs/whatsnew"
+  }
+}

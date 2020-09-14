@@ -1,0 +1,17 @@
+{
+  "id": "extension-navigating",
+  "title": "Navigating the Passport",
+  "description": "Users will use the upper left menu to navigate to the respective areas of the passport.  Clicking on the Bridge logo will return back to the passport home screen.\r",
+  "source": "@site/docs\\extension-navigating.md",
+  "permalink": "/docs/extension-navigating",
+  "sidebar_label": "Navigating the passport",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Opening a Passport",
+    "permalink": "/docs/extension-opening"
+  },
+  "next": {
+    "title": "Third-Party Interaction",
+    "permalink": "/docs/extension-using"
+  }
+}

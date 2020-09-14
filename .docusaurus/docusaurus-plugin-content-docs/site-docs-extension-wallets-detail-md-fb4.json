@@ -1,0 +1,17 @@
+{
+  "id": "extension-wallets-detail",
+  "title": "Wallet Detail View",
+  "description": "When a blockchain wallet is expanded, all details of the wallet are shown including the Bridge Token balance, the GAS / ETH balance and the address.  From this interface the user can click to view the previous transactions for the wallet, launch the token swap request dialog to do a cross-chain token swap, and view the private key.\r",
+  "source": "@site/docs\\extension-wallets-detail.md",
+  "permalink": "/docs/extension-wallets-detail",
+  "sidebar_label": "Detail View",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Blockchain Wallets",
+    "permalink": "/docs/extension-wallets"
+  },
+  "next": {
+    "title": "Transaction History",
+    "permalink": "/docs/extension-wallets-tx"
+  }
+}
