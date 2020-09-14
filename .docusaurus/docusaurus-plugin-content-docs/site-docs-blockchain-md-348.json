@@ -3,6 +3,6 @@
   "title": "Blockchain",
   "description": "",
   "source": "@site/docs\\blockchain.md",
-  "permalink": "/docs/blockchain",
+  "permalink": "/doc/docs/blockchain",
   "sidebar_label": "Overview"
 }

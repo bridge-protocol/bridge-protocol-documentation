@@ -1,253 +1,253 @@
 {
-  "/": {
-    "component": "component---site-src-pages-index-jsece-a18"
+  "/doc/": {
+    "component": "ece76bd1"
   },
-  "/docs/:route": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "docsMetadata": "docsMetadata---docs-route-20-a-f24"
+  "/doc/docs/:route": {
+    "component": "1be78505",
+    "docsMetadata": "29d5f76e"
   },
-  "/docs/blockchain": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-blockchain-348-c4e"
+  "/doc/docs/blockchain": {
+    "component": "17896441",
+    "content": "3482f1e3"
   },
-  "/docs/blockchain-ethereum": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-blockchain-ethereum-91-c-e40"
+  "/doc/docs/blockchain-ethereum": {
+    "component": "17896441",
+    "content": "91c0187b"
   },
-  "/docs/blockchain-neo": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-blockchain-neof-53-0ac"
+  "/doc/docs/blockchain-neo": {
+    "component": "17896441",
+    "content": "f5340f0b"
   },
-  "/docs/bridge-claim": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-bridge-claimcf-7-9b1"
+  "/doc/docs/bridge-claim": {
+    "component": "17896441",
+    "content": "cf732ea3"
   },
-  "/docs/bridge-overview": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-bridge-overview-5-e-6-42e"
+  "/doc/docs/bridge-overview": {
+    "component": "17896441",
+    "content": "5e61297f"
   },
-  "/docs/bridge-passport": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-bridge-passport-4-bc-ab9"
+  "/doc/docs/bridge-passport": {
+    "component": "17896441",
+    "content": "4bce01fe"
   },
-  "/docs/definitions": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-definitions-270-3c4"
+  "/doc/docs/definitions": {
+    "component": "17896441",
+    "content": "270b5d91"
   },
-  "/docs/extension-identity": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-identity-978-1c4"
+  "/doc/docs/extension-identity": {
+    "component": "17896441",
+    "content": "978c63d2"
   },
-  "/docs/extension-identity-claimpublish": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-identity-claimpublishadd-f47"
+  "/doc/docs/extension-identity-claimpublish": {
+    "component": "17896441",
+    "content": "addd5cbc"
   },
-  "/docs/extension-identity-claims": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-identity-claims-712-6ba"
+  "/doc/docs/extension-identity-claims": {
+    "component": "17896441",
+    "content": "71294a77"
   },
-  "/docs/extension-managing": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-managing-695-5e8"
+  "/doc/docs/extension-managing": {
+    "component": "17896441",
+    "content": "6957304a"
   },
-  "/docs/extension-marketplace": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-marketplaceb-29-200"
+  "/doc/docs/extension-marketplace": {
+    "component": "17896441",
+    "content": "b29ae0c5"
   },
-  "/docs/extension-marketplace-details": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-marketplace-detailse-6-a-4bb"
+  "/doc/docs/extension-marketplace-details": {
+    "component": "17896441",
+    "content": "e6add10d"
   },
-  "/docs/extension-marketplace-request": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-marketplace-request-3-d-4-a06"
+  "/doc/docs/extension-marketplace-request": {
+    "component": "17896441",
+    "content": "3d4fd8d3"
   },
-  "/docs/extension-marketplace-verification": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-marketplace-verification-078-736"
+  "/doc/docs/extension-marketplace-verification": {
+    "component": "17896441",
+    "content": "07812062"
   },
-  "/docs/extension-navigating": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-navigatingc-97-d92"
+  "/doc/docs/extension-navigating": {
+    "component": "17896441",
+    "content": "c975b774"
   },
-  "/docs/extension-opening": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-opening-31-e-027"
+  "/doc/docs/extension-opening": {
+    "component": "17896441",
+    "content": "31e4fab0"
   },
-  "/docs/extension-passport": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-passportb-9-d-c3d"
+  "/doc/docs/extension-passport": {
+    "component": "17896441",
+    "content": "b9de0df5"
   },
-  "/docs/extension-using": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-usingee-0-efe"
+  "/doc/docs/extension-using": {
+    "component": "17896441",
+    "content": "ee0f1bdb"
   },
-  "/docs/extension-wallets": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-wallets-185-754"
+  "/doc/docs/extension-wallets": {
+    "component": "17896441",
+    "content": "185caac8"
   },
-  "/docs/extension-wallets-detail": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-wallets-detailfb-4-46a"
+  "/doc/docs/extension-wallets-detail": {
+    "component": "17896441",
+    "content": "fb483fde"
   },
-  "/docs/extension-wallets-swap": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-wallets-swape-60-901"
+  "/doc/docs/extension-wallets-swap": {
+    "component": "17896441",
+    "content": "e601ef3e"
   },
-  "/docs/extension-wallets-tx": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-extension-wallets-tx-5-b-5-412"
+  "/doc/docs/extension-wallets-tx": {
+    "component": "17896441",
+    "content": "5b56844e"
   },
-  "/docs/integration": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-integrationc-24-7d9"
+  "/doc/docs/integration": {
+    "component": "17896441",
+    "content": "c24f0da9"
   },
-  "/docs/integration-blockchain": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-integration-blockchain-96-d-511"
+  "/doc/docs/integration-blockchain": {
+    "component": "17896441",
+    "content": "96d07090"
   },
-  "/docs/integration-claim": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-integration-claime-01-138"
+  "/doc/docs/integration-claim": {
+    "component": "17896441",
+    "content": "e01c7d1e"
   },
-  "/docs/integration-passport": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-integration-passport-938-e48"
+  "/doc/docs/integration-passport": {
+    "component": "17896441",
+    "content": "938100ac"
   },
-  "/docs/integration-profile": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-integration-profile-7-d-9-879"
+  "/doc/docs/integration-profile": {
+    "component": "17896441",
+    "content": "7d97ce00"
   },
-  "/docs/license": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-license-589-af6"
+  "/doc/docs/license": {
+    "component": "17896441",
+    "content": "589059fa"
   },
-  "/docs/marketplace": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-marketplacebce-ac6"
+  "/doc/docs/marketplace": {
+    "component": "17896441",
+    "content": "bce2fc1b"
   },
-  "/docs/messaging": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-messaging-9-d-6-c51"
+  "/doc/docs/messaging": {
+    "component": "17896441",
+    "content": "9d6aad02"
   },
-  "/docs/messaging-auth": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-messaging-auth-7-f-5-b5f"
+  "/doc/docs/messaging-auth": {
+    "component": "17896441",
+    "content": "7f5aaa93"
   },
-  "/docs/messaging-claimsimport": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-messaging-claimsimportcfa-ba6"
+  "/doc/docs/messaging-claimsimport": {
+    "component": "17896441",
+    "content": "cfa56521"
   },
-  "/docs/messaging-payment": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-messaging-payment-3-e-2-f80"
+  "/doc/docs/messaging-payment": {
+    "component": "17896441",
+    "content": "3e21b615"
   },
-  "/docs/network": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-network-3-fa-9bc"
+  "/doc/docs/network": {
+    "component": "17896441",
+    "content": "3faec1c9"
   },
-  "/docs/network-explorer": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-network-explorera-9-f-1e9"
+  "/doc/docs/network-explorer": {
+    "component": "17896441",
+    "content": "a9fc5254"
   },
-  "/docs/overview": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-overview-1-c-3-995"
+  "/doc/docs/overview": {
+    "component": "17896441",
+    "content": "1c3425f3"
   },
-  "/docs/passport-claim": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-passport-claim-2-c-1-8d7"
+  "/doc/docs/passport-claim": {
+    "component": "17896441",
+    "content": "2c1f2b34"
   },
-  "/docs/passport-key": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-passport-key-852-b9d"
+  "/doc/docs/passport-key": {
+    "component": "17896441",
+    "content": "8522a2a3"
   },
-  "/docs/passport-wallet": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-passport-wallet-57-f-5ed"
+  "/doc/docs/passport-wallet": {
+    "component": "17896441",
+    "content": "57f893e2"
   },
-  "/docs/sdk": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdkbcf-b98"
+  "/doc/docs/sdk": {
+    "component": "17896441",
+    "content": "bcf82ffb"
   },
-  "/docs/sdk-examples": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-examples-2-d-3-31a"
+  "/doc/docs/sdk-examples": {
+    "component": "17896441",
+    "content": "2d3c13d5"
   },
-  "/docs/sdk-messaging-auth": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-messaging-authb-83-aac"
+  "/doc/docs/sdk-messaging-auth": {
+    "component": "17896441",
+    "content": "b83518b2"
   },
-  "/docs/sdk-messaging-claim": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-messaging-claim-2-f-1-a7f"
+  "/doc/docs/sdk-messaging-claim": {
+    "component": "17896441",
+    "content": "2f1ccd9c"
   },
-  "/docs/sdk-messaging-payment": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-messaging-payment-22-d-b11"
+  "/doc/docs/sdk-messaging-payment": {
+    "component": "17896441",
+    "content": "22dbb6f0"
   },
-  "/docs/sdk-models-claim": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-models-claim-9-e-5-e34"
+  "/doc/docs/sdk-models-claim": {
+    "component": "17896441",
+    "content": "9e5207db"
   },
-  "/docs/sdk-models-claimpackage": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-models-claimpackage-669-b3c"
+  "/doc/docs/sdk-models-claimpackage": {
+    "component": "17896441",
+    "content": "66979e9f"
   },
-  "/docs/sdk-models-passport": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-models-passport-190-e8a"
+  "/doc/docs/sdk-models-passport": {
+    "component": "17896441",
+    "content": "190d4935"
   },
-  "/docs/sdk-models-wallet": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-models-walletda-8-5b7"
+  "/doc/docs/sdk-models-wallet": {
+    "component": "17896441",
+    "content": "da873f74"
   },
-  "/docs/sdk-services-application": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-application-691-8a8"
+  "/doc/docs/sdk-services-application": {
+    "component": "17896441",
+    "content": "6918663a"
   },
-  "/docs/sdk-services-blockchain": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-blockchainaf-4-b78"
+  "/doc/docs/sdk-services-blockchain": {
+    "component": "17896441",
+    "content": "af41ef3b"
   },
-  "/docs/sdk-services-bridge": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-bridge-571-548"
+  "/doc/docs/sdk-services-bridge": {
+    "component": "17896441",
+    "content": "57192fb4"
   },
-  "/docs/sdk-services-claim": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-claim-868-34b"
+  "/doc/docs/sdk-services-claim": {
+    "component": "17896441",
+    "content": "8680bc87"
   },
-  "/docs/sdk-services-partner": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-partner-947-68e"
+  "/doc/docs/sdk-services-partner": {
+    "component": "17896441",
+    "content": "94781405"
   },
-  "/docs/sdk-services-passport": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-passport-8-ea-a3f"
+  "/doc/docs/sdk-services-passport": {
+    "component": "17896441",
+    "content": "8ea442ed"
   },
-  "/docs/sdk-services-profile": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-profileb-3-b-d23"
+  "/doc/docs/sdk-services-profile": {
+    "component": "17896441",
+    "content": "b3ba7499"
   },
-  "/docs/sdk-services-tokenswap": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-services-tokenswap-94-c-dd4"
+  "/doc/docs/sdk-services-tokenswap": {
+    "component": "17896441",
+    "content": "94c8a421"
   },
-  "/docs/sdk-utils-claim": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-sdk-utils-claim-00-f-db6"
+  "/doc/docs/sdk-utils-claim": {
+    "component": "17896441",
+    "content": "00feb3d2"
   },
-  "/docs/token": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-token-198-f22"
+  "/doc/docs/token": {
+    "component": "17896441",
+    "content": "198c6fc7"
   },
-  "/docs/tos": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tos-841-b5b"
+  "/doc/docs/tos": {
+    "component": "17896441",
+    "content": "841fb4b0"
   },
-  "/docs/whatsnew": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-whatsnew-13-b-3d0"
+  "/doc/docs/whatsnew": {
+    "component": "17896441",
+    "content": "13b4e038"
   }
 }

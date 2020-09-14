@@ -3,15 +3,15 @@
   "title": "Claim",
   "description": "Service used to retrieve the Bridge Network known claim types\r",
   "source": "@site/docs\\sdk-services-claim.md",
-  "permalink": "/docs/sdk-services-claim",
+  "permalink": "/doc/docs/sdk-services-claim",
   "sidebar_label": "Claim",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Bridge",
-    "permalink": "/docs/sdk-services-bridge"
+    "permalink": "/doc/docs/sdk-services-bridge"
   },
   "next": {
     "title": "Partner",
-    "permalink": "/docs/sdk-services-partner"
+    "permalink": "/doc/docs/sdk-services-partner"
   }
 }

@@ -3,15 +3,15 @@
   "title": "Claim",
   "description": "Utility functions for interacting with one or more <a href='sdk-models-claimpackage'>ClaimPackage</a>\r",
   "source": "@site/docs\\sdk-utils-claim.md",
-  "permalink": "/docs/sdk-utils-claim",
+  "permalink": "/doc/docs/sdk-utils-claim",
   "sidebar_label": "Claim",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Token Swap",
-    "permalink": "/docs/sdk-services-tokenswap"
+    "permalink": "/doc/docs/sdk-services-tokenswap"
   },
   "next": {
     "title": "Bridge REST Integration Microservice",
-    "permalink": "/docs/integration"
+    "permalink": "/doc/docs/integration"
   }
 }

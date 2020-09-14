@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Sovereign Digital Identity</>,
-    imageUrl: '/img/secure.png',
+    imageUrl: 'img/secure.png',
     description: (
       <>
         Bridge Protocol is a sovereign identity protocol that allows for verification, management, and transmission of digital identity.  With Bridge Identity, users are in total control of their data and only provide the data they choose.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: <>Flexible Integration Options</>,
-    imageUrl: '/img/flexible.png',
+    imageUrl: 'img/flexible.png',
     description: (
       <>
         Your Bridge Identity is fully portable allowing for online, offline, and blockchain-based identity verification options.  There are several flexible options to accept Bridge Identity for any application.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: <>Open Source</>,
-    imageUrl: '/img/github.png',
+    imageUrl: 'img/github.png',
     description: (
       <>
         Bridge Identity was built and open sourced to bring sovereign digital identity to the community.  The core SDK, integration components, and end-user clients are all available on GitHub and free to use in all of your applications.
@@ -61,7 +61,7 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <div className="hero-logo">
-            <img src="/img/bridge-identity-white.png"></img>
+            <img src="img/bridge-identity-white.png"></img>
             <h2>Digital Identity Platform v3.0</h2>
           </div>
           <div className={styles.buttons}>

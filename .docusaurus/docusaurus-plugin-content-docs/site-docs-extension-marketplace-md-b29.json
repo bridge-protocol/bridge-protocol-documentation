@@ -3,15 +3,15 @@
   "title": "Marketplace Requests",
   "description": "The marketplace requests area will show all past and pending requests that have been sent to the Bridge Network for the passport.  The user can open the new request dialog by clicking the + in the upper right corner.\r",
   "source": "@site/docs\\extension-marketplace.md",
-  "permalink": "/docs/extension-marketplace",
+  "permalink": "/doc/docs/extension-marketplace",
   "sidebar_label": "Overview",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Token Swap",
-    "permalink": "/docs/extension-wallets-swap"
+    "permalink": "/doc/docs/extension-wallets-swap"
   },
   "next": {
     "title": "Marketplace Request Detail View",
-    "permalink": "/docs/extension-marketplace-details"
+    "permalink": "/doc/docs/extension-marketplace-details"
   }
 }

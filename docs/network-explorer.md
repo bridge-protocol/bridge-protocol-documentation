@@ -6,7 +6,7 @@ sidebar_label: Network Explorer
 
 The Bridge Network Explorer provides an easy to use interface to quickly view Bridge Marketplace activity, view any Bridge Marketplace partners and available services, cross-chain Bridge Token allocations, and current supported claim and profile types recognized by the network.
 
-<img class='centered' src='/img/explorer/explorer.jpg'></img>
+<img class='centered' src='/doc/img/explorer/explorer.jpg'></img>
 
 ##### Search Bar
 The search bar can be used to search for any marketplace request by id to view the status and relevant information.

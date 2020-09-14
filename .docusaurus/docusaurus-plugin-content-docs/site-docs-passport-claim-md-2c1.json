@@ -3,15 +3,15 @@
   "title": "Bridge Verified Claims",
   "description": "A Bridge Passport may contain encrypted claims packages that were issued to the passport from another passport.  \r",
   "source": "@site/docs\\passport-claim.md",
-  "permalink": "/docs/passport-claim",
+  "permalink": "/doc/docs/passport-claim",
   "sidebar_label": "Verified Claims",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Bridge Protocol Keys",
-    "permalink": "/docs/passport-key"
+    "permalink": "/doc/docs/passport-key"
   },
   "next": {
     "title": "Blockchain Wallets",
-    "permalink": "/docs/passport-wallet"
+    "permalink": "/doc/docs/passport-wallet"
   }
 }

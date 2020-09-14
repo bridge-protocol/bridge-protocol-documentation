@@ -5,7 +5,7 @@ sidebar_label: Bridge Token
 ---
 Bridge Token (BRDG) is the currency used on the Bridge Network for network fees and to transfer payments between users and Bridge Markeplace partners.  Bridge Token exists as cross-chain token that can exist on both NEO and Ethereum blockchains, while users can swap their tokens between chains using their Bridge Passport and the Bridge Network.
 
-<img class='centered' src='/img/bridge-token.png'></img>
+<img class='centered' src='../img/bridge-token.png'></img>
 
 
 

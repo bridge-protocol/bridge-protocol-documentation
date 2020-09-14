@@ -3,6 +3,6 @@
   "title": "NEO Blockchain",
   "description": "",
   "source": "@site/docs\\blockchain-neo.md",
-  "permalink": "/docs/blockchain-neo",
+  "permalink": "/doc/docs/blockchain-neo",
   "sidebar_label": "NEO"
 }

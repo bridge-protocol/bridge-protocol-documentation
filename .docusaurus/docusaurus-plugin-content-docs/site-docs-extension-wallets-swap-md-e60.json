@@ -3,15 +3,15 @@
   "title": "Token Swap",
   "description": "The token swap dialog allows users to send a token swap request to the Bridge Network to swap their tokens cross-chain.  The user specifies the number of tokenss to be transferred and any applicable Ethereum gas fees will be displayed for the user for the transaction.  \r",
   "source": "@site/docs\\extension-wallets-swap.md",
-  "permalink": "/docs/extension-wallets-swap",
+  "permalink": "/doc/docs/extension-wallets-swap",
   "sidebar_label": "Token Swap",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Transaction History",
-    "permalink": "/docs/extension-wallets-tx"
+    "permalink": "/doc/docs/extension-wallets-tx"
   },
   "next": {
     "title": "Marketplace Requests",
-    "permalink": "/docs/extension-marketplace"
+    "permalink": "/doc/docs/extension-marketplace"
   }
 }

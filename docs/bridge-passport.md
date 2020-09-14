@@ -6,7 +6,7 @@ sidebar_label: Overview
 
 The Bridge Passport is the container holds all of a user's keys, blockchain wallets, and claims to allow them to interact with the Bridge Network, Bridge Marketplace, other Bridge Passports, and multiple blockchains.
 
-<img class='centered' src='/img/passport.png'></img>
+<img class='centered' src='../img/passport.png'></img>
 
 
 - **Passport ID** - The ID of the passport (fingerprint of the public key)

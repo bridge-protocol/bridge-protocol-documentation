@@ -7,7 +7,7 @@ export default {
       "title": "",
       "logo": {
         "alt": "Bridge Protocol",
-        "src": "img/bridge-white.png"
+        "src": "./img/bridge-white.png"
       },
       "links": [
         {
@@ -41,11 +41,11 @@ export default {
   },
   "title": "Bridge Protocol",
   "tagline": "Identity Secured",
-  "url": "https://github.com/bridge-protocol",
-  "baseUrl": "/",
+  "url": "https://github.com/gubanotorious",
+  "baseUrl": "/doc/",
   "favicon": "img/bridge-token.png",
-  "organizationName": "bridge-protocol",
-  "projectName": "bridgeprotocol.github.io",
+  "organizationName": "gubanotorious",
+  "projectName": "gubanotorious.github.io",
   "presets": [
     [
       "@docusaurus/preset-classic",

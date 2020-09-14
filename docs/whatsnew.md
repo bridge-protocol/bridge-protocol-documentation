@@ -9,19 +9,19 @@ We are excited to release Bridge Digital Identity v3.0 Beta to the community!  T
 ### Cross-Chain Bridge Token and Smart Contract Support
 A major feature of this release is the full support for both the NEO and Ethereum blockchain networks. Bridge Token and Bridge Identity are now both available on NEO and Ethereum. 
 
-<img class='centered' src='/img/bridge-token-hl.png'></img>
+<img class='centered' src='../img/bridge-token-hl.png'></img>
 
 The token was initially available on NEO as a NEP-5 token, but with this release, the token is also on the Ethereum blockchain as an ERC-20 token that can now be swapped between chains easily using the Bridge Passport Browser Extension. The cross-chain token and smart contract support enables ecosystem projects on either chain to take full advantage of Bridge Token payments and on-chain Bridge Identity claims in their applications.
 
 ### Updated Bridge Network Explorer
 
-<img class='centered' src='/img/bridge-explorer-hl.jpeg'></img>
+<img class='centered' src='../img/bridge-explorer-hl.jpeg'></img>
 
 The Bridge Network Explorer was redesigned and extended to handle the expanded functionality of the Bridge Network. Alongside an updated user interface and mobile fixes, the explorer now also monitors and displays the distribution of the Bridge Token across both the NEO and Ethereum networks.
 
 ### Redesigned Passport Browser Extension
 
-<img class='centered' src='/img/bridge-screenshot-hl.png'></img>
+<img class='centered' src='../img/bridge-screenshot-hl.png'></img>
 
 The Bridge Passport Browser Extension user interface was redesigned from the ground-up with usability and extensibility in mind. In addition to the redesign, the interface was also rewritten to implement the Vue.js framework for a more robust user experience, while also enabling the extension to be easily maintained and extended with new functionality in the future.
 
