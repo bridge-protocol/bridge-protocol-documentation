@@ -3,15 +3,15 @@
   "title": "Security and Backup",
   "description": "All security and backup options can be found in the dropdown menu accessed from the icon in the upper right corner of the Bridge Passport.  Using these options the user can export, lock, and unload their passport.\r",
   "source": "@site/docs\\extension-managing.md",
-  "permalink": "/doc/docs/extension-managing",
+  "permalink": "/docs/extension-managing",
   "sidebar_label": "Security and Backup",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Third-Party Interaction",
-    "permalink": "/doc/docs/extension-using"
+    "permalink": "/docs/extension-using"
   },
   "next": {
     "title": "Digital Identity",
-    "permalink": "/doc/docs/extension-identity"
+    "permalink": "/docs/extension-identity"
   }
 }

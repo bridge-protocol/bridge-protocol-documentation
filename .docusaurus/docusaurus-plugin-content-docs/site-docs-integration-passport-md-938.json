@@ -3,15 +3,15 @@
   "title": "Passport",
   "description": "The passport endpoints expose all passport and peer-to-peer messaging functionality.\r",
   "source": "@site/docs\\integration-passport.md",
-  "permalink": "/doc/docs/integration-passport",
+  "permalink": "/docs/integration-passport",
   "sidebar_label": "Passport",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Bridge REST Integration Microservice",
-    "permalink": "/doc/docs/integration"
+    "permalink": "/docs/integration"
   },
   "next": {
     "title": "Claim",
-    "permalink": "/doc/docs/integration-claim"
+    "permalink": "/docs/integration-claim"
   }
 }

@@ -3,6 +3,6 @@
   "title": "Ethereum Blockchain",
   "description": "",
   "source": "@site/docs\\blockchain-ethereum.md",
-  "permalink": "/doc/docs/blockchain-ethereum",
+  "permalink": "/docs/blockchain-ethereum",
   "sidebar_label": "Ethereum"
 }

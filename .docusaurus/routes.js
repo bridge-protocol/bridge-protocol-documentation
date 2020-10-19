@@ -5,379 +5,373 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   
 {
-  path: '/doc/',
-  component: ComponentCreator('/doc/'),
-  exact: true,
-  
-},
-{
-  path: '/doc/docs/:route',
-  component: ComponentCreator('/doc/docs/:route'),
+  path: '/docs/:route',
+  component: ComponentCreator('/docs/:route'),
   
   routes: [
 {
-  path: '/doc/docs/blockchain',
-  component: ComponentCreator('/doc/docs/blockchain'),
+  path: '/docs/blockchain',
+  component: ComponentCreator('/docs/blockchain'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/blockchain-ethereum',
-  component: ComponentCreator('/doc/docs/blockchain-ethereum'),
+  path: '/docs/blockchain-ethereum',
+  component: ComponentCreator('/docs/blockchain-ethereum'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/blockchain-neo',
-  component: ComponentCreator('/doc/docs/blockchain-neo'),
+  path: '/docs/blockchain-neo',
+  component: ComponentCreator('/docs/blockchain-neo'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/bridge-claim',
-  component: ComponentCreator('/doc/docs/bridge-claim'),
+  path: '/docs/bridge-claim',
+  component: ComponentCreator('/docs/bridge-claim'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/bridge-overview',
-  component: ComponentCreator('/doc/docs/bridge-overview'),
+  path: '/docs/bridge-overview',
+  component: ComponentCreator('/docs/bridge-overview'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/bridge-passport',
-  component: ComponentCreator('/doc/docs/bridge-passport'),
+  path: '/docs/bridge-passport',
+  component: ComponentCreator('/docs/bridge-passport'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/definitions',
-  component: ComponentCreator('/doc/docs/definitions'),
+  path: '/docs/definitions',
+  component: ComponentCreator('/docs/definitions'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-identity',
-  component: ComponentCreator('/doc/docs/extension-identity'),
+  path: '/docs/extension-identity',
+  component: ComponentCreator('/docs/extension-identity'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-identity-claimpublish',
-  component: ComponentCreator('/doc/docs/extension-identity-claimpublish'),
+  path: '/docs/extension-identity-claimpublish',
+  component: ComponentCreator('/docs/extension-identity-claimpublish'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-identity-claims',
-  component: ComponentCreator('/doc/docs/extension-identity-claims'),
+  path: '/docs/extension-identity-claims',
+  component: ComponentCreator('/docs/extension-identity-claims'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-managing',
-  component: ComponentCreator('/doc/docs/extension-managing'),
+  path: '/docs/extension-managing',
+  component: ComponentCreator('/docs/extension-managing'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-marketplace',
-  component: ComponentCreator('/doc/docs/extension-marketplace'),
+  path: '/docs/extension-marketplace',
+  component: ComponentCreator('/docs/extension-marketplace'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-marketplace-details',
-  component: ComponentCreator('/doc/docs/extension-marketplace-details'),
+  path: '/docs/extension-marketplace-details',
+  component: ComponentCreator('/docs/extension-marketplace-details'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-marketplace-request',
-  component: ComponentCreator('/doc/docs/extension-marketplace-request'),
+  path: '/docs/extension-marketplace-request',
+  component: ComponentCreator('/docs/extension-marketplace-request'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-marketplace-verification',
-  component: ComponentCreator('/doc/docs/extension-marketplace-verification'),
+  path: '/docs/extension-marketplace-verification',
+  component: ComponentCreator('/docs/extension-marketplace-verification'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-navigating',
-  component: ComponentCreator('/doc/docs/extension-navigating'),
+  path: '/docs/extension-navigating',
+  component: ComponentCreator('/docs/extension-navigating'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-opening',
-  component: ComponentCreator('/doc/docs/extension-opening'),
+  path: '/docs/extension-opening',
+  component: ComponentCreator('/docs/extension-opening'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-passport',
-  component: ComponentCreator('/doc/docs/extension-passport'),
+  path: '/docs/extension-passport',
+  component: ComponentCreator('/docs/extension-passport'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-using',
-  component: ComponentCreator('/doc/docs/extension-using'),
+  path: '/docs/extension-using',
+  component: ComponentCreator('/docs/extension-using'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-wallets',
-  component: ComponentCreator('/doc/docs/extension-wallets'),
+  path: '/docs/extension-wallets',
+  component: ComponentCreator('/docs/extension-wallets'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-wallets-detail',
-  component: ComponentCreator('/doc/docs/extension-wallets-detail'),
+  path: '/docs/extension-wallets-detail',
+  component: ComponentCreator('/docs/extension-wallets-detail'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-wallets-swap',
-  component: ComponentCreator('/doc/docs/extension-wallets-swap'),
+  path: '/docs/extension-wallets-swap',
+  component: ComponentCreator('/docs/extension-wallets-swap'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/extension-wallets-tx',
-  component: ComponentCreator('/doc/docs/extension-wallets-tx'),
+  path: '/docs/extension-wallets-tx',
+  component: ComponentCreator('/docs/extension-wallets-tx'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/integration',
-  component: ComponentCreator('/doc/docs/integration'),
+  path: '/docs/integration',
+  component: ComponentCreator('/docs/integration'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/integration-blockchain',
-  component: ComponentCreator('/doc/docs/integration-blockchain'),
+  path: '/docs/integration-blockchain',
+  component: ComponentCreator('/docs/integration-blockchain'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/integration-claim',
-  component: ComponentCreator('/doc/docs/integration-claim'),
+  path: '/docs/integration-claim',
+  component: ComponentCreator('/docs/integration-claim'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/integration-passport',
-  component: ComponentCreator('/doc/docs/integration-passport'),
+  path: '/docs/integration-passport',
+  component: ComponentCreator('/docs/integration-passport'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/integration-profile',
-  component: ComponentCreator('/doc/docs/integration-profile'),
+  path: '/docs/integration-profile',
+  component: ComponentCreator('/docs/integration-profile'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/license',
-  component: ComponentCreator('/doc/docs/license'),
+  path: '/docs/license',
+  component: ComponentCreator('/docs/license'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/marketplace',
-  component: ComponentCreator('/doc/docs/marketplace'),
+  path: '/docs/marketplace',
+  component: ComponentCreator('/docs/marketplace'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/messaging',
-  component: ComponentCreator('/doc/docs/messaging'),
+  path: '/docs/messaging',
+  component: ComponentCreator('/docs/messaging'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/messaging-auth',
-  component: ComponentCreator('/doc/docs/messaging-auth'),
+  path: '/docs/messaging-auth',
+  component: ComponentCreator('/docs/messaging-auth'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/messaging-claimsimport',
-  component: ComponentCreator('/doc/docs/messaging-claimsimport'),
+  path: '/docs/messaging-claimsimport',
+  component: ComponentCreator('/docs/messaging-claimsimport'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/messaging-payment',
-  component: ComponentCreator('/doc/docs/messaging-payment'),
+  path: '/docs/messaging-payment',
+  component: ComponentCreator('/docs/messaging-payment'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/network',
-  component: ComponentCreator('/doc/docs/network'),
+  path: '/docs/network',
+  component: ComponentCreator('/docs/network'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/network-explorer',
-  component: ComponentCreator('/doc/docs/network-explorer'),
+  path: '/docs/network-explorer',
+  component: ComponentCreator('/docs/network-explorer'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/overview',
-  component: ComponentCreator('/doc/docs/overview'),
+  path: '/docs/overview',
+  component: ComponentCreator('/docs/overview'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/passport-claim',
-  component: ComponentCreator('/doc/docs/passport-claim'),
+  path: '/docs/passport-claim',
+  component: ComponentCreator('/docs/passport-claim'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/passport-key',
-  component: ComponentCreator('/doc/docs/passport-key'),
+  path: '/docs/passport-key',
+  component: ComponentCreator('/docs/passport-key'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/passport-wallet',
-  component: ComponentCreator('/doc/docs/passport-wallet'),
+  path: '/docs/passport-wallet',
+  component: ComponentCreator('/docs/passport-wallet'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk',
-  component: ComponentCreator('/doc/docs/sdk'),
+  path: '/docs/sdk',
+  component: ComponentCreator('/docs/sdk'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-examples',
-  component: ComponentCreator('/doc/docs/sdk-examples'),
+  path: '/docs/sdk-examples',
+  component: ComponentCreator('/docs/sdk-examples'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-messaging-auth',
-  component: ComponentCreator('/doc/docs/sdk-messaging-auth'),
+  path: '/docs/sdk-messaging-auth',
+  component: ComponentCreator('/docs/sdk-messaging-auth'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-messaging-claim',
-  component: ComponentCreator('/doc/docs/sdk-messaging-claim'),
+  path: '/docs/sdk-messaging-claim',
+  component: ComponentCreator('/docs/sdk-messaging-claim'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-messaging-payment',
-  component: ComponentCreator('/doc/docs/sdk-messaging-payment'),
+  path: '/docs/sdk-messaging-payment',
+  component: ComponentCreator('/docs/sdk-messaging-payment'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-models-claim',
-  component: ComponentCreator('/doc/docs/sdk-models-claim'),
+  path: '/docs/sdk-models-claim',
+  component: ComponentCreator('/docs/sdk-models-claim'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-models-claimpackage',
-  component: ComponentCreator('/doc/docs/sdk-models-claimpackage'),
+  path: '/docs/sdk-models-claimpackage',
+  component: ComponentCreator('/docs/sdk-models-claimpackage'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-models-passport',
-  component: ComponentCreator('/doc/docs/sdk-models-passport'),
+  path: '/docs/sdk-models-passport',
+  component: ComponentCreator('/docs/sdk-models-passport'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-models-wallet',
-  component: ComponentCreator('/doc/docs/sdk-models-wallet'),
+  path: '/docs/sdk-models-wallet',
+  component: ComponentCreator('/docs/sdk-models-wallet'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-application',
-  component: ComponentCreator('/doc/docs/sdk-services-application'),
+  path: '/docs/sdk-services-application',
+  component: ComponentCreator('/docs/sdk-services-application'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-blockchain',
-  component: ComponentCreator('/doc/docs/sdk-services-blockchain'),
+  path: '/docs/sdk-services-blockchain',
+  component: ComponentCreator('/docs/sdk-services-blockchain'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-bridge',
-  component: ComponentCreator('/doc/docs/sdk-services-bridge'),
+  path: '/docs/sdk-services-bridge',
+  component: ComponentCreator('/docs/sdk-services-bridge'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-claim',
-  component: ComponentCreator('/doc/docs/sdk-services-claim'),
+  path: '/docs/sdk-services-claim',
+  component: ComponentCreator('/docs/sdk-services-claim'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-partner',
-  component: ComponentCreator('/doc/docs/sdk-services-partner'),
+  path: '/docs/sdk-services-partner',
+  component: ComponentCreator('/docs/sdk-services-partner'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-passport',
-  component: ComponentCreator('/doc/docs/sdk-services-passport'),
+  path: '/docs/sdk-services-passport',
+  component: ComponentCreator('/docs/sdk-services-passport'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-profile',
-  component: ComponentCreator('/doc/docs/sdk-services-profile'),
+  path: '/docs/sdk-services-profile',
+  component: ComponentCreator('/docs/sdk-services-profile'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-services-tokenswap',
-  component: ComponentCreator('/doc/docs/sdk-services-tokenswap'),
+  path: '/docs/sdk-services-tokenswap',
+  component: ComponentCreator('/docs/sdk-services-tokenswap'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/sdk-utils-claim',
-  component: ComponentCreator('/doc/docs/sdk-utils-claim'),
+  path: '/docs/sdk-utils-claim',
+  component: ComponentCreator('/docs/sdk-utils-claim'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/token',
-  component: ComponentCreator('/doc/docs/token'),
+  path: '/docs/token',
+  component: ComponentCreator('/docs/token'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/tos',
-  component: ComponentCreator('/doc/docs/tos'),
+  path: '/docs/tos',
+  component: ComponentCreator('/docs/tos'),
   exact: true,
   
 },
 {
-  path: '/doc/docs/whatsnew',
-  component: ComponentCreator('/doc/docs/whatsnew'),
+  path: '/docs/whatsnew',
+  component: ComponentCreator('/docs/whatsnew'),
   exact: true,
   
 }],

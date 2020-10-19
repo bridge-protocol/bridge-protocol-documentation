@@ -6,7 +6,7 @@ sidebar_label: Navigating the passport
  
 Users will use the upper left menu to navigate to the respective areas of the passport.  Clicking on the Bridge logo will return back to the passport home screen.
 
-<p><img class='centered' src='/doc/img/extension/passport-navigation.jpg'></img></p>
+<p><img class='centered' src='/img/extension/passport-navigation.jpg'></img></p>
 
 
 ##### Digital Identity

@@ -3,15 +3,15 @@
   "title": "Helpful Terms and Definitions",
   "description": "The following terms and definitions will be used throughout the documentation.  Becoming familiar with the terms and concepts will provide important context in understanding the Bridge Protocol Digital Identity Solution and Bridge Network ecosystem.\r",
   "source": "@site/docs\\definitions.md",
-  "permalink": "/doc/docs/definitions",
+  "permalink": "/docs/definitions",
   "sidebar_label": "Helpful Terms and Definitions",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "What's New in Version 3.0",
-    "permalink": "/doc/docs/whatsnew"
+    "permalink": "/docs/whatsnew"
   },
   "next": {
     "title": "Bridge Network",
-    "permalink": "/doc/docs/network"
+    "permalink": "/docs/network"
   }
 }

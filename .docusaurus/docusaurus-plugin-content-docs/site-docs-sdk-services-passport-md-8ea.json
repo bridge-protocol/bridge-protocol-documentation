@@ -3,15 +3,15 @@
   "title": "Passport",
   "description": "Service used to retrieve information about a passport from the Bridge Network\r",
   "source": "@site/docs\\sdk-services-passport.md",
-  "permalink": "/doc/docs/sdk-services-passport",
+  "permalink": "/docs/sdk-services-passport",
   "sidebar_label": "Passport",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Partner",
-    "permalink": "/doc/docs/sdk-services-partner"
+    "permalink": "/docs/sdk-services-partner"
   },
   "next": {
     "title": "Profile",
-    "permalink": "/doc/docs/sdk-services-profile"
+    "permalink": "/docs/sdk-services-profile"
   }
 }

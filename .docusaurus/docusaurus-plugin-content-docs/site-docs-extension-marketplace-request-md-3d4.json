@@ -3,15 +3,15 @@
   "title": "Creating a Marketplace Request",
   "description": "The marketplace request create dialog allows the user to create a new marketplace request to verify their information with a Bridge Marketplace partner.  \r",
   "source": "@site/docs\\extension-marketplace-request.md",
-  "permalink": "/doc/docs/extension-marketplace-request",
+  "permalink": "/docs/extension-marketplace-request",
   "sidebar_label": "Creating Requests",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Marketplace Request Detail View",
-    "permalink": "/doc/docs/extension-marketplace-details"
+    "permalink": "/docs/extension-marketplace-details"
   },
   "next": {
     "title": "Partner Verification Process",
-    "permalink": "/doc/docs/extension-marketplace-verification"
+    "permalink": "/docs/extension-marketplace-verification"
   }
 }

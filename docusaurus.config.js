@@ -2,7 +2,7 @@ module.exports = {
   title: 'Bridge Protocol',
   tagline: 'Identity Secured',
   url: 'https://github.com/bridge-protocol',
-  baseUrl: '/doc/',
+  baseUrl: '/',
   favicon: 'img/bridge-token.png',
   organizationName: 'bridge-protocol', // Usually your GitHub org/user name.
   projectName: 'bridgeprotocol.github.io', // Usually your repo name.
@@ -12,6 +12,7 @@ module.exports = {
       logo: {
         alt: 'Bridge Protocol',
         src: './img/bridge-white.png',
+        href: 'http://localhost:3000/index.html'
       },
       links: [
         {

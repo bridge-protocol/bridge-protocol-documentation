@@ -3,15 +3,15 @@
   "title": "Blockchain Wallets",
   "description": "This section shows all of the blockchain wallets that are in the passport.  Each passport can currently have a single NEO and a single Ethereum wallet to be used for all blockchain related activity and payments.\r",
   "source": "@site/docs\\extension-wallets.md",
-  "permalink": "/doc/docs/extension-wallets",
+  "permalink": "/docs/extension-wallets",
   "sidebar_label": "Overview",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Blockchain Publishing",
-    "permalink": "/doc/docs/extension-identity-claimpublish"
+    "permalink": "/docs/extension-identity-claimpublish"
   },
   "next": {
     "title": "Wallet Detail View",
-    "permalink": "/doc/docs/extension-wallets-detail"
+    "permalink": "/docs/extension-wallets-detail"
   }
 }

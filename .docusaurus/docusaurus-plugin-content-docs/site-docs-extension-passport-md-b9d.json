@@ -3,15 +3,15 @@
   "title": "Bridge Passport Browser Extension",
   "description": "The Bridge Passport Browser extension allows users to create, manage, and use their digital identity with any website or application that supports the Bridge Protocol.  All of the user's personal information and cryptographic keys are securely stored.\r",
   "source": "@site/docs\\extension-passport.md",
-  "permalink": "/doc/docs/extension-passport",
+  "permalink": "/docs/extension-passport",
   "sidebar_label": "Overview",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Bridge Network Explorer",
-    "permalink": "/doc/docs/network-explorer"
+    "permalink": "/docs/network-explorer"
   },
   "next": {
     "title": "Opening a Passport",
-    "permalink": "/doc/docs/extension-opening"
+    "permalink": "/docs/extension-opening"
   }
 }

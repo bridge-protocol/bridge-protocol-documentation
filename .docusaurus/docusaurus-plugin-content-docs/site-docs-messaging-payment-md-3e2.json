@@ -3,15 +3,15 @@
   "title": "Payment",
   "description": "The payment protocol is used by a passport that wishes to request payments in BRDG token from another passport.\r",
   "source": "@site/docs\\messaging-payment.md",
-  "permalink": "/doc/docs/messaging-payment",
+  "permalink": "/docs/messaging-payment",
   "sidebar_label": "Payment",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Claims Import",
-    "permalink": "/doc/docs/messaging-claimsimport"
+    "permalink": "/docs/messaging-claimsimport"
   },
   "next": {
     "title": "Bridge Core SDK",
-    "permalink": "/doc/docs/sdk"
+    "permalink": "/docs/sdk"
   }
 }

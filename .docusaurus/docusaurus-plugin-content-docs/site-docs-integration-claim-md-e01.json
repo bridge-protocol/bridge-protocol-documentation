@@ -3,15 +3,15 @@
   "title": "Claim",
   "description": "The claim endpoints exposes functionality to retrieve claim type information and verifying claims\r",
   "source": "@site/docs\\integration-claim.md",
-  "permalink": "/doc/docs/integration-claim",
+  "permalink": "/docs/integration-claim",
   "sidebar_label": "Claim",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Passport",
-    "permalink": "/doc/docs/integration-passport"
+    "permalink": "/docs/integration-passport"
   },
   "next": {
     "title": "Profile Types",
-    "permalink": "/doc/docs/integration-profile"
+    "permalink": "/docs/integration-profile"
   }
 }

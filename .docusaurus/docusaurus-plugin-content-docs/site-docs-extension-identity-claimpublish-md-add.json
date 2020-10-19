@@ -3,15 +3,15 @@
   "title": "Blockchain Publishing",
   "description": "To make verified claims avaialble to blockchain dApps, a user can publish their verified claims to the NEO or Ethereum blockchain network.  To publish a claim to the blockchain, simply use the dropdown menu option in the blockchain claims section to open the publish dislog.\r",
   "source": "@site/docs\\extension-identity-claimpublish.md",
-  "permalink": "/doc/docs/extension-identity-claimpublish",
+  "permalink": "/docs/extension-identity-claimpublish",
   "sidebar_label": "Blockchain Publishing",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Claim Detail View",
-    "permalink": "/doc/docs/extension-identity-claims"
+    "permalink": "/docs/extension-identity-claims"
   },
   "next": {
     "title": "Blockchain Wallets",
-    "permalink": "/doc/docs/extension-wallets"
+    "permalink": "/docs/extension-wallets"
   }
 }

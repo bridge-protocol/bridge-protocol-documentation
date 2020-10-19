@@ -3,15 +3,15 @@
   "title": "What's New in Version 3.0",
   "description": "We are excited to release Bridge Digital Identity v3.0 Beta to the community!  This release takes Bridge Identity to the next level with substantial updates that will offer easier integration, increased blockchain support, and an improved user experience.\r",
   "source": "@site/docs\\whatsnew.md",
-  "permalink": "/doc/docs/whatsnew",
+  "permalink": "/docs/whatsnew",
   "sidebar_label": "What's New in Version 3.0",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Bridge Digital Identity",
-    "permalink": "/doc/docs/overview"
+    "permalink": "/docs/overview"
   },
   "next": {
     "title": "Helpful Terms and Definitions",
-    "permalink": "/doc/docs/definitions"
+    "permalink": "/docs/definitions"
   }
 }

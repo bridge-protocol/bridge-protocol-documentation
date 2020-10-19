@@ -1,0 +1,470 @@
+{
+  "docsSidebars": {
+    "gettingStarted": [
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/developers/docs/overview"
+          },
+          {
+            "type": "link",
+            "label": "What's New in Version 3.0",
+            "href": "/developers/docs/whatsnew"
+          },
+          {
+            "type": "link",
+            "label": "Helpful Terms and Definitions",
+            "href": "/developers/docs/definitions"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Bridge Network",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/developers/docs/network"
+          },
+          {
+            "type": "link",
+            "label": "Marketplace",
+            "href": "/developers/docs/marketplace"
+          },
+          {
+            "type": "link",
+            "label": "Bridge Token",
+            "href": "/developers/docs/token"
+          },
+          {
+            "type": "link",
+            "label": "Network Explorer",
+            "href": "/developers/docs/network-explorer"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Bridge Passport Extension",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/developers/docs/extension-passport"
+          },
+          {
+            "type": "category",
+            "label": "Passport Basics",
+            "items": [
+              {
+                "type": "link",
+                "label": "Opening a passport",
+                "href": "/developers/docs/extension-opening"
+              },
+              {
+                "type": "link",
+                "label": "Navigating the passport",
+                "href": "/developers/docs/extension-navigating"
+              },
+              {
+                "type": "link",
+                "label": "Third-Party Interaction",
+                "href": "/developers/docs/extension-using"
+              },
+              {
+                "type": "link",
+                "label": "Security and Backup",
+                "href": "/developers/docs/extension-managing"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Digital Identity",
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/developers/docs/extension-identity"
+              },
+              {
+                "type": "link",
+                "label": "Detail View",
+                "href": "/developers/docs/extension-identity-claims"
+              },
+              {
+                "type": "link",
+                "label": "Blockchain Publishing",
+                "href": "/developers/docs/extension-identity-claimpublish"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Blockchain Wallets",
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/developers/docs/extension-wallets"
+              },
+              {
+                "type": "link",
+                "label": "Detail View",
+                "href": "/developers/docs/extension-wallets-detail"
+              },
+              {
+                "type": "link",
+                "label": "Transaction History",
+                "href": "/developers/docs/extension-wallets-tx"
+              },
+              {
+                "type": "link",
+                "label": "Token Swap",
+                "href": "/developers/docs/extension-wallets-swap"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Marketplace Requests",
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/developers/docs/extension-marketplace"
+              },
+              {
+                "type": "link",
+                "label": "Detail View",
+                "href": "/developers/docs/extension-marketplace-details"
+              },
+              {
+                "type": "link",
+                "label": "Creating Requests",
+                "href": "/developers/docs/extension-marketplace-request"
+              },
+              {
+                "type": "link",
+                "label": "Verification Process",
+                "href": "/developers/docs/extension-marketplace-verification"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Developers",
+        "items": [
+          {
+            "type": "category",
+            "label": "Concepts",
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/developers/docs/bridge-overview"
+              },
+              {
+                "type": "category",
+                "label": "Bridge Passport",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Overview",
+                    "href": "/developers/docs/bridge-passport"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Keys",
+                    "href": "/developers/docs/passport-key"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Verified Claims",
+                    "href": "/developers/docs/passport-claim"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Blockchain Wallets",
+                    "href": "/developers/docs/passport-wallet"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Bridge Protocol",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Overview",
+                    "href": "/developers/docs/messaging"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Authentication",
+                    "href": "/developers/docs/messaging-auth"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Claims Import",
+                    "href": "/developers/docs/messaging-claimsimport"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Payment",
+                    "href": "/developers/docs/messaging-payment"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Javascript SDK",
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/developers/docs/sdk"
+              },
+              {
+                "type": "link",
+                "label": "Examples",
+                "href": "/developers/docs/sdk-examples"
+              },
+              {
+                "type": "category",
+                "label": "Modules",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Models",
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Claim",
+                        "href": "/developers/docs/sdk-models-claim"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Claim Package",
+                        "href": "/developers/docs/sdk-models-claimpackage"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Passport",
+                        "href": "/developers/docs/sdk-models-passport"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Wallet",
+                        "href": "/developers/docs/sdk-models-wallet"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Messaging",
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Auth",
+                        "href": "/developers/docs/sdk-messaging-auth"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Claim",
+                        "href": "/developers/docs/sdk-messaging-claim"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Payment",
+                        "href": "/developers/docs/sdk-messaging-payment"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Services",
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Application",
+                        "href": "/developers/docs/sdk-services-application"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Blockchain",
+                        "href": "/developers/docs/sdk-services-blockchain"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Bridge",
+                        "href": "/developers/docs/sdk-services-bridge"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Claim",
+                        "href": "/developers/docs/sdk-services-claim"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Partner",
+                        "href": "/developers/docs/sdk-services-partner"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Passport",
+                        "href": "/developers/docs/sdk-services-passport"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Profile",
+                        "href": "/developers/docs/sdk-services-profile"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Token Swap",
+                        "href": "/developers/docs/sdk-services-tokenswap"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Utils",
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Claim",
+                        "href": "/developers/docs/sdk-utils-claim"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "REST Microservice",
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/developers/docs/integration"
+              },
+              {
+                "type": "category",
+                "label": "Endpoints",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Passport",
+                    "href": "/developers/docs/integration-passport"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Claim",
+                    "href": "/developers/docs/integration-claim"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Profile",
+                    "href": "/developers/docs/integration-profile"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Blockchain",
+                    "href": "/developers/docs/integration-blockchain"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Terms of Use",
+        "items": [
+          {
+            "type": "link",
+            "label": "Open Source License(s)",
+            "href": "/developers/docs/license"
+          },
+          {
+            "type": "link",
+            "label": "Bridge Network Terms of Service",
+            "href": "/developers/docs/tos"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/developers/docs/bridge-overview": "gettingStarted",
+    "/developers/docs/bridge-passport": "gettingStarted",
+    "/developers/docs/definitions": "gettingStarted",
+    "/developers/docs/extension-identity": "gettingStarted",
+    "/developers/docs/extension-identity-claimpublish": "gettingStarted",
+    "/developers/docs/extension-identity-claims": "gettingStarted",
+    "/developers/docs/extension-managing": "gettingStarted",
+    "/developers/docs/extension-marketplace": "gettingStarted",
+    "/developers/docs/extension-marketplace-details": "gettingStarted",
+    "/developers/docs/extension-marketplace-request": "gettingStarted",
+    "/developers/docs/extension-marketplace-verification": "gettingStarted",
+    "/developers/docs/extension-navigating": "gettingStarted",
+    "/developers/docs/extension-opening": "gettingStarted",
+    "/developers/docs/extension-passport": "gettingStarted",
+    "/developers/docs/extension-using": "gettingStarted",
+    "/developers/docs/extension-wallets": "gettingStarted",
+    "/developers/docs/extension-wallets-detail": "gettingStarted",
+    "/developers/docs/extension-wallets-swap": "gettingStarted",
+    "/developers/docs/extension-wallets-tx": "gettingStarted",
+    "/developers/docs/integration": "gettingStarted",
+    "/developers/docs/integration-blockchain": "gettingStarted",
+    "/developers/docs/integration-claim": "gettingStarted",
+    "/developers/docs/integration-passport": "gettingStarted",
+    "/developers/docs/integration-profile": "gettingStarted",
+    "/developers/docs/license": "gettingStarted",
+    "/developers/docs/marketplace": "gettingStarted",
+    "/developers/docs/messaging": "gettingStarted",
+    "/developers/docs/messaging-auth": "gettingStarted",
+    "/developers/docs/messaging-claimsimport": "gettingStarted",
+    "/developers/docs/messaging-payment": "gettingStarted",
+    "/developers/docs/network": "gettingStarted",
+    "/developers/docs/network-explorer": "gettingStarted",
+    "/developers/docs/overview": "gettingStarted",
+    "/developers/docs/passport-claim": "gettingStarted",
+    "/developers/docs/passport-key": "gettingStarted",
+    "/developers/docs/passport-wallet": "gettingStarted",
+    "/developers/docs/sdk": "gettingStarted",
+    "/developers/docs/sdk-examples": "gettingStarted",
+    "/developers/docs/sdk-messaging-auth": "gettingStarted",
+    "/developers/docs/sdk-messaging-claim": "gettingStarted",
+    "/developers/docs/sdk-messaging-payment": "gettingStarted",
+    "/developers/docs/sdk-models-claim": "gettingStarted",
+    "/developers/docs/sdk-models-claimpackage": "gettingStarted",
+    "/developers/docs/sdk-models-passport": "gettingStarted",
+    "/developers/docs/sdk-models-wallet": "gettingStarted",
+    "/developers/docs/sdk-services-application": "gettingStarted",
+    "/developers/docs/sdk-services-blockchain": "gettingStarted",
+    "/developers/docs/sdk-services-bridge": "gettingStarted",
+    "/developers/docs/sdk-services-claim": "gettingStarted",
+    "/developers/docs/sdk-services-partner": "gettingStarted",
+    "/developers/docs/sdk-services-passport": "gettingStarted",
+    "/developers/docs/sdk-services-profile": "gettingStarted",
+    "/developers/docs/sdk-services-tokenswap": "gettingStarted",
+    "/developers/docs/sdk-utils-claim": "gettingStarted",
+    "/developers/docs/token": "gettingStarted",
+    "/developers/docs/tos": "gettingStarted",
+    "/developers/docs/whatsnew": "gettingStarted"
+  }
+}

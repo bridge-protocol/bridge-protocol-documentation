@@ -3,15 +3,15 @@
   "title": "Opening a Passport",
   "description": "When the extension is opened, the user will have an option to create a new passport or to import a previously created and exported passport.\r",
   "source": "@site/docs\\extension-opening.md",
-  "permalink": "/doc/docs/extension-opening",
+  "permalink": "/docs/extension-opening",
   "sidebar_label": "Opening a passport",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Bridge Passport Browser Extension",
-    "permalink": "/doc/docs/extension-passport"
+    "permalink": "/docs/extension-passport"
   },
   "next": {
     "title": "Navigating the Passport",
-    "permalink": "/doc/docs/extension-navigating"
+    "permalink": "/docs/extension-navigating"
   }
 }

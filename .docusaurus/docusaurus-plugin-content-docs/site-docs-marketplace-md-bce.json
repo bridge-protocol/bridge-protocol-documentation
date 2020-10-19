@@ -3,15 +3,15 @@
   "title": "Bridge Marketplace",
   "description": "The Bridge Marketplace is an area of the Bridge Network that allows users to find trusted Bridge Marketplace partners on the Bridge Network.  Bridge Marketplace partners can provide services to verify user information and provide verified claims in exchange for payment in Bridge Token.  The standard identity verification partner on the network is the Bridge Protocol Corporation provider that has capabilities to verify user identity to satisfy current international KYC and AML compliance requirements.  \r",
   "source": "@site/docs\\marketplace.md",
-  "permalink": "/doc/docs/marketplace",
+  "permalink": "/docs/marketplace",
   "sidebar_label": "Marketplace",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Bridge Network",
-    "permalink": "/doc/docs/network"
+    "permalink": "/docs/network"
   },
   "next": {
     "title": "Bridge Token (BRDG)",
-    "permalink": "/doc/docs/token"
+    "permalink": "/docs/token"
   }
 }

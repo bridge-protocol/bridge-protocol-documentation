@@ -3,15 +3,15 @@
   "title": "Auth",
   "description": "Implements the challenge / response authentication protocol to allow passport, claims, and blockchain information to be securely communicated between passports.\r",
   "source": "@site/docs\\sdk-messaging-auth.md",
-  "permalink": "/doc/docs/sdk-messaging-auth",
+  "permalink": "/docs/sdk-messaging-auth",
   "sidebar_label": "Auth",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Wallet",
-    "permalink": "/doc/docs/sdk-models-wallet"
+    "permalink": "/docs/sdk-models-wallet"
   },
   "next": {
     "title": "Claim",
-    "permalink": "/doc/docs/sdk-messaging-claim"
+    "permalink": "/docs/sdk-messaging-claim"
   }
 }

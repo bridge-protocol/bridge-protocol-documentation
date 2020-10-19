@@ -3,15 +3,15 @@
   "title": "Claim Package",
   "description": "The claim package is a package containing encrypted claim data that can only be decrypted and viewed by the passport that it was signed and encrypted for.\r",
   "source": "@site/docs\\sdk-models-claimpackage.md",
-  "permalink": "/doc/docs/sdk-models-claimpackage",
+  "permalink": "/docs/sdk-models-claimpackage",
   "sidebar_label": "Claim Package",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Claim",
-    "permalink": "/doc/docs/sdk-models-claim"
+    "permalink": "/docs/sdk-models-claim"
   },
   "next": {
     "title": "Passport",
-    "permalink": "/doc/docs/sdk-models-passport"
+    "permalink": "/docs/sdk-models-passport"
   }
 }

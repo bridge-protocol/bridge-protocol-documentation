@@ -3,15 +3,15 @@
   "title": "Claims Import",
   "description": "The claims import protocol is used by a passport that wishes to sign and provide an encrypted claim package to be imported to another passport.  This is the protocol used by all Bridge Marketplace providers to issue and transmit secure claims.\r",
   "source": "@site/docs\\messaging-claimsimport.md",
-  "permalink": "/doc/docs/messaging-claimsimport",
+  "permalink": "/docs/messaging-claimsimport",
   "sidebar_label": "Claims Import",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Authentication",
-    "permalink": "/doc/docs/messaging-auth"
+    "permalink": "/docs/messaging-auth"
   },
   "next": {
     "title": "Payment",
-    "permalink": "/doc/docs/messaging-payment"
+    "permalink": "/docs/messaging-payment"
   }
 }

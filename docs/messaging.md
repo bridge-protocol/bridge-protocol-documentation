@@ -5,7 +5,7 @@ sidebar_label: Overview
 ---
 The Bridge Protcol is the core messaging protocol that handles the encoding, signing, and encrypting of messages to faciliate secure peer-to-peer communication between Bridge Passports.  All messages are hex encoded for transport.
 
-<img class='centered' src='/doc/img/message-overview.png'></img>
+<img class='centered' src='/img/message-overview.png'></img>
 
 ---
 

@@ -3,15 +3,15 @@
   "title": "Token Swap",
   "description": "Service to retrieve the status of Token Swaps received by the Bridge Network\r",
   "source": "@site/docs\\sdk-services-tokenswap.md",
-  "permalink": "/doc/docs/sdk-services-tokenswap",
+  "permalink": "/docs/sdk-services-tokenswap",
   "sidebar_label": "Token Swap",
   "sidebar": "gettingStarted",
   "previous": {
     "title": "Profile",
-    "permalink": "/doc/docs/sdk-services-profile"
+    "permalink": "/docs/sdk-services-profile"
   },
   "next": {
     "title": "Claim",
-    "permalink": "/doc/docs/sdk-utils-claim"
+    "permalink": "/docs/sdk-utils-claim"
   }
 }
