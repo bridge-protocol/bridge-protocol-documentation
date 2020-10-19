@@ -12,7 +12,8 @@ module.exports = {
       logo: {
         alt: 'Bridge Protocol',
         src: './img/bridge-white.png',
-        href: 'http://localhost:3000/index.html'
+        href: 'https://bridgeprotocol.io',
+	target: '_self'
       },
       links: [
         {
