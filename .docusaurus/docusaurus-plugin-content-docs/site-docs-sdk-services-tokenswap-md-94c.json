@@ -11,7 +11,7 @@
     "permalink": "/docs/sdk-services-profile"
   },
   "next": {
-    "title": "Claim",
-    "permalink": "/docs/sdk-utils-claim"
+    "title": "Request Relay",
+    "permalink": "/docs/sdk-services-relay"
   }
 }

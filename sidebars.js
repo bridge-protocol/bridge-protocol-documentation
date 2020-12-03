@@ -30,6 +30,9 @@ module.exports = {
         items: ['extension-marketplace', 'extension-marketplace-details', 'extension-marketplace-request', 'extension-marketplace-verification']
       }
     ],
+    'Bridge Passport Mobile':[
+      'mobile'
+    ],
     'Developers':[
       {
         type: 'category',
@@ -70,7 +73,7 @@ module.exports = {
             {
               type: 'category',
               label: 'Services',
-              items: ['sdk-services-application', 'sdk-services-blockchain', 'sdk-services-bridge', 'sdk-services-claim', 'sdk-services-partner', 'sdk-services-passport', 'sdk-services-profile', 'sdk-services-tokenswap']
+              items: ['sdk-services-application', 'sdk-services-blockchain', 'sdk-services-bridge', 'sdk-services-claim', 'sdk-services-partner', 'sdk-services-passport', 'sdk-services-profile', 'sdk-services-tokenswap','sdk-services-relay'],
             },
             {
               type: 'category',

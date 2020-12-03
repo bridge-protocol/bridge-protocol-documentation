@@ -12,7 +12,7 @@
           },
           {
             "type": "link",
-            "label": "What's New in Version 3.0",
+            "label": "What's New in Version 3.1",
             "href": "/docs/whatsnew"
           },
           {
@@ -78,7 +78,7 @@
               },
               {
                 "type": "link",
-                "label": "Security and Backup",
+                "label": "Security, Backup and Sync",
                 "href": "/docs/extension-managing"
               }
             ]
@@ -155,6 +155,17 @@
                 "href": "/docs/extension-marketplace-verification"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Bridge Passport Mobile",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/mobile"
           }
         ]
       },
@@ -333,6 +344,11 @@
                         "type": "link",
                         "label": "Token Swap",
                         "href": "/docs/sdk-services-tokenswap"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Request Relay",
+                        "href": "/docs/sdk-services-relay"
                       }
                     ]
                   },
@@ -439,6 +455,7 @@
     "/docs/messaging-auth": "gettingStarted",
     "/docs/messaging-claimsimport": "gettingStarted",
     "/docs/messaging-payment": "gettingStarted",
+    "/docs/mobile": "gettingStarted",
     "/docs/network": "gettingStarted",
     "/docs/network-explorer": "gettingStarted",
     "/docs/overview": "gettingStarted",
@@ -461,6 +478,7 @@
     "/docs/sdk-services-partner": "gettingStarted",
     "/docs/sdk-services-passport": "gettingStarted",
     "/docs/sdk-services-profile": "gettingStarted",
+    "/docs/sdk-services-relay": "gettingStarted",
     "/docs/sdk-services-tokenswap": "gettingStarted",
     "/docs/sdk-utils-claim": "gettingStarted",
     "/docs/token": "gettingStarted",

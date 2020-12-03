@@ -214,6 +214,12 @@ export default [
   
 },
 {
+  path: '/docs/mobile',
+  component: ComponentCreator('/docs/mobile'),
+  exact: true,
+  
+},
+{
   path: '/docs/network',
   component: ComponentCreator('/docs/network'),
   exact: true,
@@ -342,6 +348,12 @@ export default [
 {
   path: '/docs/sdk-services-profile',
   component: ComponentCreator('/docs/sdk-services-profile'),
+  exact: true,
+  
+},
+{
+  path: '/docs/sdk-services-relay',
+  component: ComponentCreator('/docs/sdk-services-relay'),
   exact: true,
   
 },
