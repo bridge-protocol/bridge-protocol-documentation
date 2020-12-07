@@ -8,3 +8,6 @@ Bridge Passport Mobile lets users import their Bridge Passport and all related c
 
 <img class='centered' src='/img/mobile/passport-identity.png' width="300"></img>
 
+<img class='centered' src='/img/mobile/passport-identity-detail.jpg' width="600"></img>
+
+
