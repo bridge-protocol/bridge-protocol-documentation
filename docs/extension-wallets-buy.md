@@ -21,6 +21,10 @@ On Ethereum, tokens can be acquired via Uniswap decentralized exchange.  Given t
 
 <h3>Sending a Uniswap Request</h3>
 
-To send a request to Uniswap, simply click the button and open the dialog, provide the amount to purchase and the acceptable slippage (default is 50%), and submit the request.  After the request is sent, follow the transaction for further status information.
+To send a request to Uniswap, simply click the button and open the dialog, provide the amount to purchase and the acceptable slippage (default is 50%), and submit the request.  
 
 <img class='centered' src='/img/extension/eth-buy-uniswap.jpg'></img>
+
+After the request is sent, follow the transaction for further status information.
+
+<img class='centered' src='/img/extension/eth-buy-uniswap-pending.jpg'></img>

@@ -24,6 +24,10 @@
   --ifm-code-font-size: 95%;
 }
 
+body {
+  font-weight:100;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
@@ -90,6 +94,13 @@ hr
   display: block !important;
   margin-left: auto !important;
   margin-right: auto !important;
+}
+
+.dex-logo{
+  margin: 1em !important;
+  display: inline-table !important;
+  margin: 0px 16px 16px 0px !important;
+  vertical-align: top;
 }
 
 .nobottommargin{

@@ -1,7 +1,7 @@
 {
   "id": "whatsnew",
   "title": "What's New in Version 3.1",
-  "description": "We are excited to release Bridge Digital Identity v3.1 Beta to the community!  This release takes Bridge Identity to the next level with increased access to BRDG token and liquidity, and offers mobile support to let users use their Bridge Identity with their mobile device.\r",
+  "description": "We are excited to release Bridge Digital Identity v3.1 Beta to the community!  This release takes Bridge Identity to the next level with increased access to BRDG token and liquidity, and offers mobile support to let users use their Bridge Identity with their mobile device in both the online and physical worlds.\r",
   "source": "@site/docs\\whatsnew.md",
   "permalink": "/docs/whatsnew",
   "sidebar_label": "What's New in Version 3.1",

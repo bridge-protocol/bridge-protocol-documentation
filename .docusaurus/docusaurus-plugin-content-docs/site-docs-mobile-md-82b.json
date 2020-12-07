@@ -1,7 +1,7 @@
 {
   "id": "mobile",
   "title": "Bridge Passport Mobile",
-  "description": "Bridge Passport Mobile lets users import their Bridge Passport and all related claims from their Bridge Passport Browser Extension to their mobile device to enable them to use their digital identity on the go.  Currently supported on Android devices.\r",
+  "description": "Bridge Passport Mobile lets users import their Bridge Passport and all related claims from their Bridge Passport Browser Extension to their mobile device to enable them to use their digital identity on the go in online and real world scenarios.  This is currently supported on Android devices.\r",
   "source": "@site/docs\\mobile.md",
   "permalink": "/docs/mobile",
   "sidebar_label": "Overview",
