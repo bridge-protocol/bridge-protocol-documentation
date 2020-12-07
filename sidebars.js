@@ -31,7 +31,7 @@ module.exports = {
       }
     ],
     'Bridge Passport Mobile':[
-      'mobile'
+      'mobile', 'mobile-import','mobile-identity','mobile-request','mobile-response'
     ],
     'Developers':[
       {

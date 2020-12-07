@@ -166,6 +166,26 @@
             "type": "link",
             "label": "Overview",
             "href": "/docs/mobile"
+          },
+          {
+            "type": "link",
+            "label": "Import Passport",
+            "href": "/docs/mobile-import"
+          },
+          {
+            "type": "link",
+            "label": "Digital Identity",
+            "href": "/docs/mobile-identity"
+          },
+          {
+            "type": "link",
+            "label": "Identity Request",
+            "href": "/docs/mobile-request"
+          },
+          {
+            "type": "link",
+            "label": "Identity Response",
+            "href": "/docs/mobile-response"
           }
         ]
       },
@@ -456,6 +476,10 @@
     "/docs/messaging-claimsimport": "gettingStarted",
     "/docs/messaging-payment": "gettingStarted",
     "/docs/mobile": "gettingStarted",
+    "/docs/mobile-identity": "gettingStarted",
+    "/docs/mobile-import": "gettingStarted",
+    "/docs/mobile-request": "gettingStarted",
+    "/docs/mobile-response": "gettingStarted",
     "/docs/network": "gettingStarted",
     "/docs/network-explorer": "gettingStarted",
     "/docs/overview": "gettingStarted",

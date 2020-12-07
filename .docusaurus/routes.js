@@ -220,6 +220,30 @@ export default [
   
 },
 {
+  path: '/docs/mobile-identity',
+  component: ComponentCreator('/docs/mobile-identity'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile-import',
+  component: ComponentCreator('/docs/mobile-import'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile-request',
+  component: ComponentCreator('/docs/mobile-request'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile-response',
+  component: ComponentCreator('/docs/mobile-response'),
+  exact: true,
+  
+},
+{
   path: '/docs/network',
   component: ComponentCreator('/docs/network'),
   exact: true,

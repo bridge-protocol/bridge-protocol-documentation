@@ -7,8 +7,8 @@
   "sidebar_label": "Overview",
   "sidebar": "gettingStarted",
   "previous": {
-    "title": "Bridge Passport Mobile",
-    "permalink": "/docs/mobile"
+    "title": "Identity Response",
+    "permalink": "/docs/mobile-response"
   },
   "next": {
     "title": "Bridge Passport",
