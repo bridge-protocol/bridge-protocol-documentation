@@ -25,6 +25,9 @@ The collection of information that contains the claims, blockchain wallets, and 
 ### Bridge Passport Extension
 The web browser extension client that implements the Bridge Protocol and interacts with the Bridge Network to provide a user interface to allow a user to manage their Bridge Identity, Bridge Tokens, and Marketplace Requests.
 
+### Bridge Passport Mobile
+The mobile application that allows users to import their Bridge Passport from the Bridge Passport Extension to use their digital identity on the go.
+
 ### Bridge Network
 The network run by Bridge Protocol Corporation to manage passport blacklists, vetting of Bridge
 Network partners and Bridge Marketplace partners, and to facilitate communication between passport users and Bridge
@@ -35,7 +38,7 @@ Any organization that is registered with the Bridge Network that implements the 
 
 ### Bridge Network Explorer
 The Bridge Network explorer that shows token distribution, network fees, known claim types, known partners, and recent
-marketplace requests on the network. This can be found at https://explorer.bridgeprotocol.io/
+marketplace requests on the network.
 
 ### Bridge Marketplace
 The collection of organizations offering verification services in exchange for Bridge Token on the Bridge
@@ -57,4 +60,4 @@ Bridge Marketplace partner
 The NEO Smart Economy blockchain. See https://neo.org/
 
 ### Ethereum Blockchain
-The Ethereum blockchain. https://https://ethereum.org/
+The Ethereum blockchain. https://ethereum.org/

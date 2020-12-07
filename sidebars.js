@@ -22,7 +22,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Blockchain Wallets',
-        items: ['extension-wallets', 'extension-wallets-detail', 'extension-wallets-tx', 'extension-wallets-swap']
+        items: ['extension-wallets', 'extension-wallets-detail', 'extension-wallets-tx', 'extension-wallets-buy','extension-wallets-swap']
       },
       {
         type: 'category',

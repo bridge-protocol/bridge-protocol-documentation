@@ -130,6 +130,12 @@ export default [
   
 },
 {
+  path: '/docs/extension-wallets-buy',
+  component: ComponentCreator('/docs/extension-wallets-buy'),
+  exact: true,
+  
+},
+{
   path: '/docs/extension-wallets-detail',
   component: ComponentCreator('/docs/extension-wallets-detail'),
   exact: true,

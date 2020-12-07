@@ -7,8 +7,8 @@
   "sidebar_label": "Token Swap",
   "sidebar": "gettingStarted",
   "previous": {
-    "title": "Transaction History",
-    "permalink": "/docs/extension-wallets-tx"
+    "title": "Token Acquisition",
+    "permalink": "/docs/extension-wallets-buy"
   },
   "next": {
     "title": "Marketplace Requests",
