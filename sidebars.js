@@ -22,13 +22,16 @@ module.exports = {
       {
         type: 'category',
         label: 'Blockchain Wallets',
-        items: ['extension-wallets', 'extension-wallets-detail', 'extension-wallets-tx', 'extension-wallets-swap']
+        items: ['extension-wallets', 'extension-wallets-detail', 'extension-wallets-tx', 'extension-wallets-buy','extension-wallets-swap']
       },
       {
         type: 'category',
         label: 'Marketplace Requests',
         items: ['extension-marketplace', 'extension-marketplace-details', 'extension-marketplace-request', 'extension-marketplace-verification']
       }
+    ],
+    'Bridge Passport Mobile':[
+      'mobile', 'mobile-import','mobile-identity','mobile-request','mobile-response'
     ],
     'Developers':[
       {
@@ -70,7 +73,7 @@ module.exports = {
             {
               type: 'category',
               label: 'Services',
-              items: ['sdk-services-application', 'sdk-services-blockchain', 'sdk-services-bridge', 'sdk-services-claim', 'sdk-services-partner', 'sdk-services-passport', 'sdk-services-profile', 'sdk-services-tokenswap']
+              items: ['sdk-services-application', 'sdk-services-blockchain', 'sdk-services-bridge', 'sdk-services-claim', 'sdk-services-partner', 'sdk-services-passport', 'sdk-services-profile', 'sdk-services-tokenswap','sdk-services-relay'],
             },
             {
               type: 'category',

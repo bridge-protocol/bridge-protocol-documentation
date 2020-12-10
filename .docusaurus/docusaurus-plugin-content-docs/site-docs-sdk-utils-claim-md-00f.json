@@ -7,8 +7,8 @@
   "sidebar_label": "Claim",
   "sidebar": "gettingStarted",
   "previous": {
-    "title": "Token Swap",
-    "permalink": "/docs/sdk-services-tokenswap"
+    "title": "Request Relay",
+    "permalink": "/docs/sdk-services-relay"
   },
   "next": {
     "title": "Bridge REST Integration Microservice",

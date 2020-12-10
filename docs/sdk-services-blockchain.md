@@ -246,4 +246,46 @@ async publishClaimTransaction(passport, password, wallet, claim, hashOnly, claim
 
 ---
 
+### getUniswapTransactionCost()
+Extimate the current ETH transaction cost for purchasing BRDG on Uniswap
+```
+async getUniswapTransactionCost()
+```
 
+---
+
+### getUniswapInfo()
+Retrieve information about BRDG/ETH pair on Uniswap
+```
+async getUniswapInfo()
+```
+
+---
+
+### getUniswapPrice()
+Estimate the current ETH cost for purchasing a specific amount BRDG on Uniswap
+```
+async getUniswapPrice(amount)
+```
+- **amount** (int) - the amount to retrieve the current price for
+
+---
+
+### createUniswapSwap()
+Create a swap to purchase BRDG with ETH on Uniswap
+```
+async createUniswapSwap(address, amount, slippagePercent)
+```
+- **address** (string) - the Ethereum address context to use for the purchase
+- **amount** (int) - the amount to purchase
+- **slippagePercent** (int) - the allowable slippage percent (optional, default is 50)
+
+---
+
+### sendUniswapTradeTransaction()
+```
+async sendUniswapTradeTransaction(wallet, trade, costOnly)
+```
+- **wallet** (<a href='sdk-models-wallet'>Wallet</a>) - blockchain wallet to use for sending the transaction
+- **trade** (<a href="#">Trade</a>) - the Uniswap trade to transmit retrieved from createUniswapSwap()
+- **costOnly** (bool) - Calculate the cost only, does not transmit.

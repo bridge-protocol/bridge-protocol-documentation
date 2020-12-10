@@ -1,7 +1,7 @@
 ---
 id: extension-managing
-title: Security and Backup
-sidebar_label: Security and Backup
+title: Security, Backup and Sync
+sidebar_label: Security, Backup and Sync
 ---
 
 All security and backup options can be found in the dropdown menu accessed from the icon in the upper right corner of the Bridge Passport.  Using these options the user can export, lock, and unload their passport.
@@ -21,3 +21,9 @@ If a passport is locked, the next time the user attempts to access their passpor
 
 ### Unloading a Passport
 The user can unload the passport entirely from browser memory using the Unload Passport option.  When the passport is unloaded, they will either need to create a new passport or import an existing passport.
+
+### Mobile Sync
+If the user has Bridge Passport Mobile on their mobile device, they can generate a QR code that will allow the mobile app to sync their Bridge Identity and all related claims to the device.  
+
+<p><img class='centered' src='/img/extension/mobile-handoff.png'></img></p>
+

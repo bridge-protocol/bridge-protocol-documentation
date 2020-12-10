@@ -13,3 +13,13 @@ async getDetails(passport, passphrase, passportId)
 - **passport** (<a href='sdk-models-passport'>Passport</a>) - passport context used for API authentication
 - **passphrase** (string) - password used to unlock context passport private key
 - **passportId** (string) - the passport id to request information about
+
+---
+
+### handoff()
+Send the current passport context for handoff using the request relay API
+```
+async handoff(passport, passphrase)
+```
+- **passport** (<a href='sdk-models-passport'>Passport</a>) - passport context used for API authentication
+- **passphrase** (string) - password used to unlock context passport private key

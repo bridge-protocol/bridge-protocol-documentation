@@ -130,6 +130,12 @@ export default [
   
 },
 {
+  path: '/docs/extension-wallets-buy',
+  component: ComponentCreator('/docs/extension-wallets-buy'),
+  exact: true,
+  
+},
+{
   path: '/docs/extension-wallets-detail',
   component: ComponentCreator('/docs/extension-wallets-detail'),
   exact: true,
@@ -210,6 +216,36 @@ export default [
 {
   path: '/docs/messaging-payment',
   component: ComponentCreator('/docs/messaging-payment'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile',
+  component: ComponentCreator('/docs/mobile'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile-identity',
+  component: ComponentCreator('/docs/mobile-identity'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile-import',
+  component: ComponentCreator('/docs/mobile-import'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile-request',
+  component: ComponentCreator('/docs/mobile-request'),
+  exact: true,
+  
+},
+{
+  path: '/docs/mobile-response',
+  component: ComponentCreator('/docs/mobile-response'),
   exact: true,
   
 },
@@ -342,6 +378,12 @@ export default [
 {
   path: '/docs/sdk-services-profile',
   component: ComponentCreator('/docs/sdk-services-profile'),
+  exact: true,
+  
+},
+{
+  path: '/docs/sdk-services-relay',
+  component: ComponentCreator('/docs/sdk-services-relay'),
   exact: true,
   
 },

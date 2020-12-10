@@ -12,7 +12,7 @@
           },
           {
             "type": "link",
-            "label": "What's New in Version 3.0",
+            "label": "What's New in Version 3.1",
             "href": "/docs/whatsnew"
           },
           {
@@ -78,7 +78,7 @@
               },
               {
                 "type": "link",
-                "label": "Security and Backup",
+                "label": "Security, Backup and Sync",
                 "href": "/docs/extension-managing"
               }
             ]
@@ -125,6 +125,11 @@
               },
               {
                 "type": "link",
+                "label": "Token Acquisition",
+                "href": "/docs/extension-wallets-buy"
+              },
+              {
+                "type": "link",
                 "label": "Token Swap",
                 "href": "/docs/extension-wallets-swap"
               }
@@ -155,6 +160,37 @@
                 "href": "/docs/extension-marketplace-verification"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Bridge Passport Mobile",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/mobile"
+          },
+          {
+            "type": "link",
+            "label": "Import Passport",
+            "href": "/docs/mobile-import"
+          },
+          {
+            "type": "link",
+            "label": "Digital Identity",
+            "href": "/docs/mobile-identity"
+          },
+          {
+            "type": "link",
+            "label": "Identity Request",
+            "href": "/docs/mobile-request"
+          },
+          {
+            "type": "link",
+            "label": "Identity Response",
+            "href": "/docs/mobile-response"
           }
         ]
       },
@@ -333,6 +369,11 @@
                         "type": "link",
                         "label": "Token Swap",
                         "href": "/docs/sdk-services-tokenswap"
+                      },
+                      {
+                        "type": "link",
+                        "label": "Request Relay",
+                        "href": "/docs/sdk-services-relay"
                       }
                     ]
                   },
@@ -425,6 +466,7 @@
     "/docs/extension-passport": "gettingStarted",
     "/docs/extension-using": "gettingStarted",
     "/docs/extension-wallets": "gettingStarted",
+    "/docs/extension-wallets-buy": "gettingStarted",
     "/docs/extension-wallets-detail": "gettingStarted",
     "/docs/extension-wallets-swap": "gettingStarted",
     "/docs/extension-wallets-tx": "gettingStarted",
@@ -439,6 +481,11 @@
     "/docs/messaging-auth": "gettingStarted",
     "/docs/messaging-claimsimport": "gettingStarted",
     "/docs/messaging-payment": "gettingStarted",
+    "/docs/mobile": "gettingStarted",
+    "/docs/mobile-identity": "gettingStarted",
+    "/docs/mobile-import": "gettingStarted",
+    "/docs/mobile-request": "gettingStarted",
+    "/docs/mobile-response": "gettingStarted",
     "/docs/network": "gettingStarted",
     "/docs/network-explorer": "gettingStarted",
     "/docs/overview": "gettingStarted",
@@ -461,6 +508,7 @@
     "/docs/sdk-services-partner": "gettingStarted",
     "/docs/sdk-services-passport": "gettingStarted",
     "/docs/sdk-services-profile": "gettingStarted",
+    "/docs/sdk-services-relay": "gettingStarted",
     "/docs/sdk-services-tokenswap": "gettingStarted",
     "/docs/sdk-utils-claim": "gettingStarted",
     "/docs/token": "gettingStarted",

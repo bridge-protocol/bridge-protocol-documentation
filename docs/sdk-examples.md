@@ -95,3 +95,11 @@ A passport and verified claims can be published to both NEO and Ethereum blockch
 </p>
 <a href="https://github.com/bridge-protocol/bridge-protocol-js/blob/master/examples/blockchain.js">View Example on GitHub</a>
 
+---
+
+### Uniswap Buy
+<p class="nobottommargin">
+BRDG Token can be purchased using ETH via Uniswap.  This example demonstrates how to retrieve estimated cost and execute the swap.
+</p>
+<a href="https://github.com/bridge-protocol/bridge-protocol-js/blob/master/examples/uniswap-buy.js">View Example on GitHub</a>
+

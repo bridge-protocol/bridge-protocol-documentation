@@ -1,0 +1,17 @@
+{
+  "id": "sdk-services-relay",
+  "title": "Request Relay",
+  "description": "Service to facilitate relaying encrypted payloads between applications and devices for synchronization and challenge / request.  Requests and responses are routed using the Bridge Network via temporary encrypted payloads.\r",
+  "source": "@site/docs\\sdk-services-relay.md",
+  "permalink": "/docs/sdk-services-relay",
+  "sidebar_label": "Request Relay",
+  "sidebar": "gettingStarted",
+  "previous": {
+    "title": "Token Swap",
+    "permalink": "/docs/sdk-services-tokenswap"
+  },
+  "next": {
+    "title": "Claim",
+    "permalink": "/docs/sdk-utils-claim"
+  }
+}

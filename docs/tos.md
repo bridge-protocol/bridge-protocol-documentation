@@ -114,4 +114,4 @@ Bridge Protocol Corporation
 Cary, NC 27518
 United States
 
-This Poicy was last updated May 15, 2020
+This Poicy was last updated December 7, 2020
