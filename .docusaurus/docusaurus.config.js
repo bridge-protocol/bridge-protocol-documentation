@@ -13,24 +13,13 @@ export default {
       },
       "links": [
         {
-          "to": "docs/overview",
-          "activeBasePath": "docs",
-          "label": "Docs",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/bridge-protocol",
           "label": "GitHub",
           "position": "left"
         },
         {
-          "href": "https://explorer.bridgeprotocol.io",
-          "label": "Network Explorer",
-          "position": "left"
-        },
-        {
-          "href": "https://chrome.google.com/webstore/detail/bridge-passport/opoooeghbadjpnklfhcodnnobakaminp",
-          "label": "Browser Extension",
+          "href": "https://bridge-protocol.azurewebsites.net",
+          "label": "Explorer",
           "position": "left"
         }
       ]

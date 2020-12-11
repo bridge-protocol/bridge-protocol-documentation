@@ -9,12 +9,12 @@ We are excited to release Bridge Digital Identity v3.1 Beta to the community!  T
 ### More Ways to Acquire Bridge Token
 We've expanded access to the Bridge Token (BRDG) across multiple decentralized exchanges. When using Uniswap, users can even acquire directly using ETH from the blockchain wallet in the Bridge Passport Browser Extension.
 
-<img src='/img/switcheo.png' height="26" class="dex-logo"></img>
-<img src='/img/flamingo.png' height="30" class="dex-logo"></img>
-<img src='/img/uniswap.png' height="30" class="dex-logo"></img>
+<img src='/img/dex.png' height="50"></img>
 
 ### Bridge Passport Mobile
-Bridge Passport Mobile for Android is available with this release.  Users can import their Bridge Passport and all related claims to their mobile device to enable them to use their digital identity on the go.
+Bridge Passport Mobile for Android is available with this release.  Users can import their Bridge Passport and all related claims to their mobile device to enable them to use their digital identity on the go. <a href='mobile'>View the Documentation</a>
+
+<img src='/img/mobile/passport.png' height="450"></img>
 
 ### Bug Fixes
 All outstanding bugs to date in the Bridge Passport Browser Extension are resolved in this release.
