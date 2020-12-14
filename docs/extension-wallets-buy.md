@@ -8,7 +8,7 @@ The token swap dialog allows users to send a token swap request to the Bridge Ne
 
 <h2>Neo Blockchain</h2>
 
-On the Neo blockchain, tokens can be acquired via the decentralized exchanges Flamingo and Switcheo.  Links to the respective exchanges can be found in the Bridge Passport Neo Wallet.
+On the Neo blockchain, tokens can be acquired via the decentralized exchanges like Switcheo.  Links to the supported exchanges can be found in the Bridge Passport Neo Wallet.
 
 <img class='centered' src='/img/extension/neo-buy.jpg'></img>
 
